@@ -8,8 +8,7 @@ Practicar cuatro formas básicas de visualizar un mensaje en JavaScript:
 - mensaje dentro de un div
 
 Cómo ejecutar
- ir al link `http://localhost/ActividadSemana5/actividad_hola_mundo.html` en el navegador.
-
+Descargar los archivos y abrir actividad_hola_mundo.html en el navegador.
 
 Evidencias
 Se incluyen capturas de:
